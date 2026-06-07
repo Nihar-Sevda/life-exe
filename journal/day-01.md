@@ -1,5 +1,5 @@
 # Day 1
-##"The First Commit"
+"The First Commit"
 
 Date: 2026-06-08
 
